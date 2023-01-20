@@ -11,6 +11,13 @@
   [X] Lectures <br />
   [X] Slides <br />
   [ ] Notes <br />
+  
+* Statistical Rethinking - Richard McElreath - Max Planck - [Link](https://github.com/rmcelreath/stat_rethinking_2023)
+
+  [X] Lectures <br />
+  [X] Slides <br />
+  [ ] Notes <br />
+
 
 
 ## Time Series
