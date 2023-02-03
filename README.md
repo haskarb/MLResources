@@ -1,4 +1,4 @@
-# ML Resources
+# Machine Learning & Associated Resources
 
 ## Machine Learning
 * Intuition for the Algorithms of Machine Learning - Cynthia Rudin - DUKE - [Link](https://users.cs.duke.edu/~cynthia/teaching.html) <br />
@@ -17,6 +17,12 @@
   [X] Lectures <br />
   [X] Slides <br />
   [ ] Notes <br />
+  
+* Probability Systems Analysis & Applied Probability - John Tsitsiklis - MIT - [Link](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/pages/unit-i/)
+
+  [X] Lectures <br />
+  [X] Slides <br />
+  [X] Notes <br />
 
 
 
