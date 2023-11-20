@@ -1,5 +1,7 @@
 # Machine Learning & Associated Resources
 
+This repository contains various ML courses link and information about what they offer, obviously along with the value. I have created this for my personal collection, and in no ways orders the various courses. Feel free to create a PR, if you have something more to add :)
+
 ## Machine Learning
 * Intuition for the Algorithms of Machine Learning - Cynthia Rudin - DUKE - [Link](https://users.cs.duke.edu/~cynthia/teaching.html) <br />
   [X] Lectures <br />
