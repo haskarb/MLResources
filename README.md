@@ -24,6 +24,11 @@
   [X] Slides <br />
   [X] Notes <br />
 
+* Deep Learning Systems - J. Zico Kolter and Tianqi Chen - CMU - [Link](https://dlsyscourse.org/)
+
+  [X] Lectures <br />
+  [X] Slides <br />
+  [ ] Notes <br />
 
 
 ## Time Series
